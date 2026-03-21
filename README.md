@@ -27,9 +27,9 @@
 
 ### 📊 System Identity Matrix
 
-| **16** Rules | **573** Skills | **2977** Patterns | **30** Flows | **17** Core Libs |
+| **16** Rules | **573** Skills | **30** Flows | **10.9k** Files | **669k** Lines |
 | :---: | :---: | :---: | :---: | :---: |
-| *Governance* | *Operational* | *Advanced AI* | *Standardized* | *Core Libraries* |
+| *Governance* | *Operational* | *Standardized* | *Workspace* | *Codebase* |
 
 </div>
 

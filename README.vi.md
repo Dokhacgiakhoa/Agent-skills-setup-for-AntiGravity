@@ -27,9 +27,9 @@
 
 ### 📊 Ma trận Năng lực Hệ thống
 
-| **16** Quy tắc | **573** Kỹ năng | **2977** Chiến thuật | **30** Quy trình | **17** Core Libs |
+| **16** Quy tắc | **573** Kỹ năng | **30** Quy trình | **10.9k** Tệp | **669k** Dòng |
 | :---: | :---: | :---: | :---: | :---: |
-| *Quản trị* | *Công cụ lõi* | *Mẫu AI Nâng cao* | *Chuẩn hóa* | *DNA Dùng chung* |
+| *Quản trị* | *Công cụ lõi* | *Chuẩn hóa* | *Không gian* | *Mã nguồn* |
 
 </div>
 
