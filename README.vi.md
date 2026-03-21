@@ -14,7 +14,9 @@
 <!-- SECOND ROW: Stats -->
 <p align="center">
   <a href="https://socket.dev/npm/package/antigravity-ide"><img src="https://socket.dev/api/badge/npm/package/antigravity-ide" alt="Socket Badge" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/Dokhacgiakhoa/antigravity-ide"><img src="https://img.shields.io/github/languages/code-size/Dokhacgiakhoa/antigravity-ide?color=blue" alt="Code Size" /></a>
+  <a href="https://github.com/Dokhacgiakhoa/antigravity-ide"><img src="https://img.shields.io/github/languages/code-size/Dokhacgiakhoa/antigravity-ide?color=blue" alt="Code Size" /></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tệp-10.9k-blueviolet" alt="Total Files" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Dòng_Code-669k-ff69b4" alt="Lines of Code" />
 </p>
 
 <br>
