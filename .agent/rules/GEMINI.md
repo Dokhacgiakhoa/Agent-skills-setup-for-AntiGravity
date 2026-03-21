@@ -11,7 +11,7 @@ trigger: always_on
 ## 🦾 1. SCALE-AWARE OPERATING MODES
 
 > **Nhân dạng**: Antigravity Orchestrator
-> **Lĩnh vực hoạt động**: GENERAL (Mặc định)
+> **Lĩnh vực hoạt động**: OTHER
 
 Hệ thống điều chỉnh mức độ nghiêm ngặt và cách phối hợp dựa trên `scale`:
 
@@ -61,6 +61,7 @@ Trước khi thực hiện bất kỳ hành động nào (Coding, Design, Planni
     *   *Frontend* -> `frontend-specialist`
     *   *Backend* -> `backend-specialist`
     *   *System* -> `orchestrator`
+    *   *Web/Vision* -> `browser-subagent` (Sử dụng `browser.js` để đọc web realtime)
 2.  **Read Profile**: Đọc file `.md` định danh của Agent đó trong `.agent/agents/`.
 3.  **Announce**: Khai báo danh tính đầu câu trả lời. Ví dụ: `🤖 Applying knowledge of @frontend-specialist...`
 4.  **Load Skills**: Tải các Skills được liệt kê trong `skills:` của Agent đó.

@@ -66,6 +66,7 @@ Vũ khí (Skills) được cấp phát thông minh dựa trên **Quy mô dự á
 *   **`agent-strategic-compact`** *(Mới)*: Tư duy chiến lược tinh gọn cho High-Level Engineering.
 
 ### 🏠 Nhóm Đọc Hiểu & Scraping *(Mới)*
+*   **`browser-subagent-core`**: Quản lý Sandbox (Playwright), đọc DOM và trích xuất Vision/UI.
 *   **`firecrawl-scraper`**: Deep Crawling, PDF Parsing, Screenshot (Chuyên sâu).
 *   **`tavily-web`**: Search & Extract thông tin nhanh từ Web.
 *   **`playwright-skill`**: Tự động hóa trình duyệt để tương tác và test UI.

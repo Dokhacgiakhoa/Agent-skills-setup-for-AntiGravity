@@ -32,6 +32,7 @@
     "fs-extra": "^11.2.0",
     "gradient-string": "^2.0.2",
     "ora": "^5.4.1",
+    "playwright": "^1.58.2",
     "prompts": "^2.4.2",
     "shelljs": "^0.8.5",
     "update-notifier": "^5.1.0"

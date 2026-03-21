@@ -52,5 +52,13 @@ const { checkAndApplyUpdates } = require('./lib/auto-update');
         await validateProject('.');
       });
 
+    program
+      .command('manager')
+      .description('Launch the Agent-First Manager View Dashboard (Monitor Swarm)')
+      .action(async () => {
+        const { launchManagerView } = require('./ui/dashboard');
+        await launchManagerView('.');
+      });
+
     program.parse(process.argv);
 })();

@@ -1,3 +1,9 @@
+---
+name: agent-backend-patterns
+description: >
+  Master backend logic, APIs, and microservices architectures.
+  Covers REST, GraphQL, caching, and database transactions.
+---
 
 Backend architecture patterns and best practices for scalable server-side applications.
 

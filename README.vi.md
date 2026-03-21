@@ -99,6 +99,7 @@ du-an-cua-ban/
 
 | Lệnh | Hành động | Logic Xử Lý |
 | :--- | :--- | :--- |
+| `npx antigravity-ide manager` | **Manager View** | Mở bảng điều khiển Swarm thời gian thực (Agent-First Mode). |
 | `npx antigravity-ide .` | **Sửa Chữa / Đồng Bộ** | Quét cả Global (`GEMINI.md`) & Workspace (`.agent`). Bù file thiếu. |
 | `npx antigravity-ide validate` | **Kiểm Tra Sức Khỏe** | Xác minh tính toàn vẹn của cả 2 phạm vi. |
 | `npx antigravity-ide update` | **Nâng Cấp** | Cập nhật Core DNA nhưng tôn trọng ranh giới Scope (không ghi đè ẩu). |

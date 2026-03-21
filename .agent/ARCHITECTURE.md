@@ -49,6 +49,7 @@ Antigravity Kit is a modular system consisting of:
 | `voice-ai-engineer` | **Worker** | Real-time Voice Agents (NEW) |
 | `rust-expert` | **Worker** | System Programming (NEW) |
 | `react-architect` | **Worker** | Next.js Enterprise Patterns (NEW) |
+| `browser-subagent` | **Recon** | Web Reconnaissance & Vision Scraping (NEW) |
 
 ---
 
@@ -57,9 +58,10 @@ Antigravity Kit is a modular system consisting of:
 System operates on the classic management framework to ensure continuous quality:
 
 1.  **PLAN (Lập kế hoạch)**: `project-planner` - Defines MVP, PRD, and creates the execution blueprint.
-2.  **DO (Thực hiện)**: **Worker Agents** (Backend, Frontend, etc.) - Build the features according to the plan.
-3.  **CHECK (Kiểm tra & Đánh giá)**: `quality-inspector` - Independent audit, running tests, and validating success criteria.
-4.  **ACT (Điều chỉnh & Vận hành)**: `orchestrator` - Refines the output based on audit results or triggers the final operation.
+2.  **RECON (Trinh sát)**: `browser-subagent` - Quét Web, cào nội dung DOM (innerText), chụp màn hình Vision.
+3.  **DO (Thực hiện)**: **Worker Agents** (Backend, Frontend, etc.) - Build the features according to the plan.
+4.  **CHECK (Kiểm tra & Đánh giá)**: `quality-inspector` - Independent audit, chạy tests, phân tích file Vision ảnh.
+5.  **ACT (Điều chỉnh & Vận hành)**: `orchestrator` - Refines the output, theo dõi bằng Manager View (Dashboard).
 
 ---
 
@@ -293,3 +295,4 @@ For details, see [scripts/README.md](scripts/README.md)
 | Testing | `test-engineer` | testing-patterns, webapp-testing |
 | Debug | `debugger` | systematic-debugging |
 | Plan | `project-planner` | brainstorming, plan-writing |
+| Recon/Scraping | `browser-subagent`| browser-subagent-core |

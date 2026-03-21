@@ -31,6 +31,7 @@ Dưới đây là danh sách các nhân viên ảo sẽ phục vụ bạn:
 *   **`qa-automation-engineer`**: Tự động viết và chạy kịch bản kiểm thử E2E (Playwright MCP).
 
 ### 4. Nhóm Hỗ Trợ & Phân Tích (Support & Analysis)
+*   **`browser-subagent`**: Chuyên gia trinh sát mạng (Recon), tự động bật trình duyệt cào dữ liệu, xử lý DOM và chụp ảnh Vision.
 *   **`documentation-writer`**: Soạn thảo tài liệu kỹ thuật, API Docs và Hướng dẫn sử dụng.
 *   **`seo-specialist`**: Tối ưu hóa công cụ tìm kiếm, Meta tags và cấu trúc nội dung.
 *   **`game-developer`**: Chuyên gia phát triển Logic Game, Physics và Đồ họa.

@@ -99,6 +99,7 @@ your-project/
 
 | Command | Action | Logic |
 | :--- | :--- | :--- |
+| `npx antigravity-ide manager` | **Manager View** | Launches Realtime Swarm Dashboard (Agent-First Mode). |
 | `npx antigravity-ide .` | **Repair / Sync** | Scans Global (`GEMINI.md`) & Workspace (`.agent`). Fills gaps. |
 | `npx antigravity-ide validate` | **Health Check** | Verifies integrity of both scopes. |
 | `npx antigravity-ide update` | **Upgrade** | Updates Core DNA while respecting Scope boundaries. |

@@ -20,16 +20,18 @@ $ARGUMENTS
 - **Task**: Create `PLAN.md`.
 - **Gate**: Stop and ask for User Approval. **DO NOT PROCEED** without a "YES".
 
-## 🔵 PHASE 2: Parallel Execution
+## 🔵 PHASE 2: Agent-First Execution & Routing
 **Agent**: `orchestrator`
+- **Dashboard Hook**: Yêu cầu người dùng bật Terminal phụ chạy lệnh `npm start manager` (hoặc `node cli/index.js manager`) để giám sát Realtime Swarm.
 - **Execution Matrix**:
-  - **Group A (Foundation)**: `database-architect`, `security-auditor`.
+  - **Group 0 (Reconnaissance)**: `browser-subagent`. (Kích hoạt `cli/tools/browser.js` để cào web/chụp ảnh nếu Task cần data realtime).
+  - **Group A (Foundation)**: `database-architect`, `security-auditor` (Nhận context từ Group 0).
   - **Group B (Core)**: `backend-specialist`, `frontend-specialist`.
   - **Group C (Optimization)**: `performance-optimizer`, `seo-specialist`.
 
-## 🔴 PHASE 3: Systemic Review
+## 🔴 PHASE 3: Systemic Review & Self-Healing
 **Agent**: `quality-inspector`
-- **Task**: Verify the convergence of all agents.
+- **Task**: Xác minh tính gắn kết của Code + Duyệt file ảnh Vision (`.agent/vision/*.png`) do Subagent cung cấp.
 - **Automation**: Run `security_scan.sh` and `lint_check.sh`.
 - **Handoff**: Create a unified `walkthrough.md`.
 
