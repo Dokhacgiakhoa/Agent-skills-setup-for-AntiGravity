@@ -2,6 +2,8 @@ name: Publish to npm
 
 on:
   push:
+    branches:
+      - main
     tags:
       - 'v*'
   release:
@@ -36,7 +38,9 @@ jobs:
       - run: npm run prepublishOnly
 
       # Publish to npm (Primary)
-      - run: npm publish --provenance --access public
+      - name: Publish to npm
+        if: startsWith(github.ref, 'refs/tags/v')
+        run: npm publish --provenance --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.AG_TOKEN }}
 
