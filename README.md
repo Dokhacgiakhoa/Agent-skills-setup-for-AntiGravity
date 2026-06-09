@@ -29,7 +29,7 @@
 
 ### 📊 System Identity Matrix
 
-| **16** Rules | **573** Skills | **30** Flows | **10.9k** Files | **669k** Lines |
+| **16** Rules | **575** Skills | **30** Flows | **10.9k** Files | **669k** Lines |
 | :---: | :---: | :---: | :---: | :---: |
 | *Governance* | *Operational* | *Standardized* | *Workspace* | *Codebase* |
 
