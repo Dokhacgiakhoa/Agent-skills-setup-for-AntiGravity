@@ -1,5 +1,5 @@
 
-**Version**: 4.3.6 (Stable Marketing & NPM)
+**Version**: 4.3.7 (Stable Marketing & NPM)
 **Language**: English (Technical)
 
 Welcome to the AntiGravity IDE system, tuned to maximum performance. This is no longer just a coding tool, but an **AI War Room** equipped with professional domain knowledge and production pipelines.
