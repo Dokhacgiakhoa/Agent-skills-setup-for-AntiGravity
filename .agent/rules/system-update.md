@@ -1,3 +1,8 @@
+---
+trigger: model_decision
+description: "Khi người dùng hỏi về cập nhật, phiên bản, hoặc nâng cấp của gói agent-skills-setup-for-antigravity."
+---
+
 # SYSTEM-UPDATE.MD - Version Control Protocol
 
 > **Mục tiêu**: Đảm bảo tính nhất quán tuyệt đối về phiên bản trên toàn bộ hệ thống.

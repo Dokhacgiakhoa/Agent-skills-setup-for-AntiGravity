@@ -1,4 +1,5 @@
 ---
+name: orchestrator
 domain: Master Coordination
 rule_ref: rules/GEMINI.md
 dna_ref: .shared/ai-master/ORCHESTRATION_PROTOCOL.md

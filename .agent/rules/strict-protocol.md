@@ -1,3 +1,8 @@
+---
+trigger: always_on
+description: "Strict protocol enforcement for agent operations, git policy, and language adherence."
+---
+
 # STRICT PROTOCOL ENFORCEMENT
 
 > **Trigger**: ALWAYS_ON (Critical)

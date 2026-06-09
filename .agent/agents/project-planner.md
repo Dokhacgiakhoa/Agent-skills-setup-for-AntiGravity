@@ -1,4 +1,5 @@
 ---
+name: project-planner
 domain: Coordination & Strategy
 rule_ref: rules/GEMINI.md
 dna_ref: .shared/ai-master/RESEARCH_PROTOCOL.md

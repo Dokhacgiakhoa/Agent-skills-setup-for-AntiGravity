@@ -46,7 +46,7 @@ describe('checkAndApplyUpdates', () => {
     // Should NOT prompt
     expect(mockPrompts).not.toHaveBeenCalled();
     // Should install immediately
-    expect(mockExecSync).toHaveBeenCalledWith('npm install -g antigravity-ide@latest', expect.anything());
+    expect(mockExecSync).toHaveBeenCalledWith('npm install -g agent-skills-setup-for-antigravity@latest', expect.anything());
     expect(mockExit).toHaveBeenCalledWith(0);
   });
 });
