@@ -1,20 +1,20 @@
 <div align="center">
 
-# 🛰️ AntiGravity IDE
+# 🛰️ Agent skills setup for AntiGravity
 ### *Advanced Edition • v4.3.3 Meta-Engine*
 
 <!-- BADGES: Spaced & Tightly Wrapped to prevent Underlines -->
 <p align="center">
-  <a href="https://www.npmjs.com/package/antigravity-ide"><img src="https://img.shields.io/npm/v/antigravity-ide?color=2ea44f&logo=npm" alt="npm version" /></a>&nbsp;&nbsp;
-  <a href="https://www.npmjs.com/package/antigravity-ide"><img src="https://img.shields.io/npm/dm/antigravity-ide?color=blueviolet&logo=npm" alt="npm downloads" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/Dokhacgiakhoa/antigravity-ide/actions"><img src="https://img.shields.io/github/actions/workflow/status/Dokhacgiakhoa/antigravity-ide/npm-publish.yml?branch=main&logo=github&label=BUILD" alt="Build Status" /></a>&nbsp;&nbsp;
-  <a href="LICENSE"><img src="https://img.shields.io/npm/l/antigravity-ide?color=orange" alt="License" /></a>
+  <a href="https://www.npmjs.com/package/agent-skills-setup-for-antigravity"><img src="https://img.shields.io/npm/v/agent-skills-setup-for-antigravity?color=2ea44f&logo=npm" alt="npm version" /></a>&nbsp;&nbsp;
+  <a href="https://www.npmjs.com/package/agent-skills-setup-for-antigravity"><img src="https://img.shields.io/npm/dm/agent-skills-setup-for-antigravity?color=blueviolet&logo=npm" alt="npm downloads" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity/actions"><img src="https://img.shields.io/github/actions/workflow/status/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity/npm-publish.yml?branch=main&logo=github&label=BUILD" alt="Build Status" /></a>&nbsp;&nbsp;
+  <a href="LICENSE"><img src="https://img.shields.io/npm/l/agent-skills-setup-for-antigravity?color=orange" alt="License" /></a>
 </p>
 
 <!-- SECOND ROW: Stats -->
 <p align="center">
-  <a href="https://socket.dev/npm/package/antigravity-ide"><img src="https://socket.dev/api/badge/npm/package/antigravity-ide" alt="Socket Badge" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/Dokhacgiakhoa/antigravity-ide"><img src="https://img.shields.io/github/languages/code-size/Dokhacgiakhoa/antigravity-ide?color=blue" alt="Code Size" /></a>&nbsp;&nbsp;
+  <a href="https://socket.dev/npm/package/agent-skills-setup-for-antigravity"><img src="https://socket.dev/api/badge/npm/package/agent-skills-setup-for-antigravity" alt="Socket Badge" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity"><img src="https://img.shields.io/github/languages/code-size/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity?color=blue" alt="Code Size" /></a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Files-10.9k-blueviolet" alt="Total Files" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Lines_of_Code-669k-ff69b4" alt="Lines of Code" />
 </p>
@@ -23,7 +23,7 @@
 
 **Easy Vibe, Lazy Code. One Command to Rule Them All.**
 
-[Explore Docs](https://antigravity-ide-cli.vercel.app/) • [Github](https://github.com/Dokhacgiakhoa/antigravity-ide) • [Report Bug](https://github.com/Dokhacgiakhoa/antigravity-ide/issues)
+[Explore Docs](https://agent-skills-setup-for-antigravity.vercel.app) • [Github](https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity) • [Report Bug](https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity/issues)
 
 ---
 
@@ -46,7 +46,7 @@ Antigravity uses a **Dual-Scope Strategy** to ensure absolute stability:
 
 ```bash
 # ONE COMMAND TO RULE THEM ALL
-npx antigravity-ide [project-name]
+npx agent-skills-setup-for-antigravity [project-name]
 ```
 
 > [!TIP]
@@ -71,7 +71,7 @@ Why choose AntiGravity over standard AI wrappers?
 ## 🎯 3 Steps to Your First App
 
 1.  **Launch Terminal**: Open Command Prompt or Powershell.
-2.  **Execute God Command**: `npx antigravity-ide my-app`
+2.  **Execute God Command**: \`npx agent-skills-setup-for-antigravity my-app\`
 3.  **Talk to the Brain**: Interact with your new Virtual Team.
 
 ---
@@ -92,7 +92,7 @@ your-project/
 
 > [!NOTE]
 > **Scope Definition**: 
-> - **Global**: The CLI Tool (`npx antigravity-ide`) acts as the installer.
+> - **Global**: The CLI Tool (`npx agent-skills-setup-for-antigravity`) acts as the installer.
 > - **Workspace**: All Rules (`.agent/rules`), Skills, and Workflows are installed **Locally** into your project. This ensures total isolation context.
 
 ---
@@ -101,10 +101,10 @@ your-project/
 
 | Command | Action | Logic |
 | :--- | :--- | :--- |
-| `npx antigravity-ide manager` | **Manager View** | Launches Realtime Swarm Dashboard (Agent-First Mode). |
-| `npx antigravity-ide .` | **Repair / Sync** | Scans Global (`GEMINI.md`) & Workspace (`.agent`). Fills gaps. |
-| `npx antigravity-ide validate` | **Health Check** | Verifies integrity of both scopes. |
-| `npx antigravity-ide update` | **Upgrade** | Updates Core DNA while respecting Scope boundaries. |
+| `npx agent-skills-setup-for-antigravity manager` | **Manager View** | Launches Realtime Swarm Dashboard (Agent-First Mode). |
+| `npx agent-skills-setup-for-antigravity .` | **Repair / Sync** | Scans Global (`GEMINI.md`) & Workspace (`.agent`). Fills gaps. |
+| `npx agent-skills-setup-for-antigravity validate` | **Health Check** | Verifies integrity of both scopes. |
+| `npx agent-skills-setup-for-antigravity update` | **Upgrade** | Updates Core DNA while respecting Scope boundaries. |
 
 ---
 

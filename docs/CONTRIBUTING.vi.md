@@ -1,6 +1,6 @@
 # Hướng Dẫn Đóng Góp (Contributing)
 
-Cảm ơn bạn đã quan tâm đến dự án AntiGravity IDE! Chúng tôi luôn chào đón mọi sự đóng góp từ cộng đồng để cùng xây dựng một hệ sinh thái mã nguồn mở vững mạnh. 
+Cảm ơn bạn đã quan tâm đến dự án Agent skills setup for AntiGravity! Chúng tôi luôn chào đón mọi sự đóng góp từ cộng đồng để cùng xây dựng một hệ sinh thái mã nguồn mở vững mạnh. 
 
 > [!NOTE]
 > Khi đóng góp, vui lòng tôn trọng bản quyền và các nguồn tham khảo (References) chính của dự án.
@@ -39,8 +39,8 @@ Khi tham gia dự án, vui lòng giữ thái độ tôn trọng, lịch sự và
 
 1.  Clone fork của bạn:
     ```bash
-    git clone https://github.com/your-username/antigravity-ide.git
-    cd antigravity-ide
+    git clone https://github.com/your-username/Agent-skills-setup-for-AntiGravity.git
+    cd Agent-skills-setup-for-AntiGravity
     ```
 2.  Cài đặt thư viện:
     ```bash

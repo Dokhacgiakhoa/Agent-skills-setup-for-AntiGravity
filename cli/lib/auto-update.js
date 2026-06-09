@@ -16,18 +16,18 @@ async function checkAndApplyUpdates(packageJson, options = {}) {
   if (notifier.update) {
     const { latest, current } = notifier.update;
     console.log(chalk.yellow(`\n📦 New version detected: ${chalk.green(latest)} (Current: ${current})`));
-    console.log(chalk.cyan('🚀 Auto-updating Antigravity IDE to ensure you have the latest features...'));
+    console.log(chalk.cyan('🚀 Auto-updating Agent skills setup for AntiGravity to ensure you have the latest features...'));
 
     try {
       // Use --no-save to avoid polluting local package.json if run in a project
       // But -g is what actually updates the global/npx cached version for next runs
-      execSyncLib('npm install -g antigravity-ide@latest', { stdio: 'inherit' });
+      execSyncLib('npm install -g agent-skills-setup-for-antigravity@latest', { stdio: 'inherit' });
       console.log(chalk.green('\n✅ Version ' + latest + ' installed successfully!'));
       console.log(chalk.bold.yellow('🔄 Please run your command again to use the new version.\n'));
       exitLib(0);
     } catch (error) {
       console.log(chalk.gray('\n⚠️  Automatic update failed (possibly due to permissions).'));
-      console.log(chalk.gray(`   Please run manually: ${chalk.white('npm install -g antigravity-ide@latest')}\n`));
+      console.log(chalk.gray(`   Please run manually: ${chalk.white('npm install -g agent-skills-setup-for-antigravity@latest')}\n`));
       // In case of failure, we continue with current version so we don't block the user
     }
   }

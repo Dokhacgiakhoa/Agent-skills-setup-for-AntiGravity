@@ -18,7 +18,7 @@ function logError(error, context) {
 
 - **Type**: Runtime
 - **Severity**: High
-- **File**: \`.agent/scripts/automation/auto-release.js\`
+- **File**: \`scripts/internal/automation/auto-release.js\`
 - **Agent**: Senior Automation Engine
 - **Root Cause**: ${context}
 - **Error Message**: 
@@ -53,8 +53,8 @@ const VERSION_FILES = [
     },
     {
         path: 'README.md',
-        regex: /antigravity-ide@\d+\.\d+\.\d+/g, // Update npx command example if generic
-        template: (ver) => `antigravity-ide@${ver}`
+        regex: /agent-skills-setup-for-antigravity@\d+\.\d+\.\d+/g, // Update npx command example if generic
+        template: (ver) => `agent-skills-setup-for-antigravity@${ver}`
     }
 ];
 
@@ -79,7 +79,7 @@ function main() {
     const newVersion = process.argv[2];
     
     if (!newVersion) {
-        console.error("❌ Error: Vui lòng cung cấp version mới. Ví dụ: node .agent/scripts/auto-release.js 4.0.4");
+        console.error("❌ Error: Vui lòng cung cấp version mới. Ví dụ: node scripts/internal/automation/auto-release.js 4.0.4");
         process.exit(1);
     }
 

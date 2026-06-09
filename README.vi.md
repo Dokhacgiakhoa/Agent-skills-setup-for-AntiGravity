@@ -1,20 +1,20 @@
 <div align="center">
 
-# 🛰️ AntiGravity IDE
+# 🛰️ Agent skills setup for AntiGravity
 ### *Phiên bản Nâng cao • v4.3.3 Meta-Engine*
 
 <!-- BADGES: Spaced & Tightly Wrapped to prevent Underlines -->
 <p align="center">
-  <a href="https://www.npmjs.com/package/antigravity-ide"><img src="https://img.shields.io/npm/v/antigravity-ide?color=2ea44f&logo=npm" alt="npm version" /></a>&nbsp;&nbsp;
-  <a href="https://www.npmjs.com/package/antigravity-ide"><img src="https://img.shields.io/npm/dm/antigravity-ide?color=blueviolet&logo=npm" alt="npm downloads" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/Dokhacgiakhoa/antigravity-ide/actions"><img src="https://img.shields.io/github/actions/workflow/status/Dokhacgiakhoa/antigravity-ide/npm-publish.yml?branch=main&logo=github&label=BUILD" alt="Build Status" /></a>&nbsp;&nbsp;
-  <a href="LICENSE"><img src="https://img.shields.io/npm/l/antigravity-ide?color=orange" alt="License" /></a>
+  <a href="https://www.npmjs.com/package/agent-skills-setup-for-antigravity"><img src="https://img.shields.io/npm/v/agent-skills-setup-for-antigravity?color=2ea44f&logo=npm" alt="npm version" /></a>&nbsp;&nbsp;
+  <a href="https://www.npmjs.com/package/agent-skills-setup-for-antigravity"><img src="https://img.shields.io/npm/dm/agent-skills-setup-for-antigravity?color=blueviolet&logo=npm" alt="npm downloads" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity/actions"><img src="https://img.shields.io/github/actions/workflow/status/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity/npm-publish.yml?branch=main&logo=github&label=BUILD" alt="Build Status" /></a>&nbsp;&nbsp;
+  <a href="LICENSE"><img src="https://img.shields.io/npm/l/agent-skills-setup-for-antigravity?color=orange" alt="License" /></a>
 </p>
 
 <!-- SECOND ROW: Stats -->
 <p align="center">
-  <a href="https://socket.dev/npm/package/antigravity-ide"><img src="https://socket.dev/api/badge/npm/package/antigravity-ide" alt="Socket Badge" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/Dokhacgiakhoa/antigravity-ide"><img src="https://img.shields.io/github/languages/code-size/Dokhacgiakhoa/antigravity-ide?color=blue" alt="Code Size" /></a>&nbsp;&nbsp;
+  <a href="https://socket.dev/npm/package/agent-skills-setup-for-antigravity"><img src="https://socket.dev/api/badge/npm/package/agent-skills-setup-for-antigravity" alt="Socket Badge" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity"><img src="https://img.shields.io/github/languages/code-size/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity?color=blue" alt="Code Size" /></a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Tệp-10.9k-blueviolet" alt="Total Files" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Dòng_Code-669k-ff69b4" alt="Lines of Code" />
 </p>
@@ -23,7 +23,7 @@
 
 **Vibe thoải mái, Code thảnh thơi. Một lệnh duy nhất cân cả thế giới.**
 
-[Trang chủ](https://antigravity-ide-cli.vercel.app/) • [Github](https://github.com/Dokhacgiakhoa/antigravity-ide) • [Báo lỗi](https://github.com/Dokhacgiakhoa/antigravity-ide/issues)
+[Trang chủ](https://agent-skills-setup-for-antigravity.vercel.app) • [Github](https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity) • [Báo lỗi](https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity/issues)
 
 ---
 
@@ -46,7 +46,7 @@ Antigravity sử dụng chiến lược **Dual-Scope Installation** để đảm
 
 ```bash
 # MỘT LỆNH DUY NHẤT CHO TẤT CẢ
-npx antigravity-ide [ten-du-an]
+npx agent-skills-setup-for-antigravity [ten-du-an]
 ```
 
 > [!TIP]
@@ -71,7 +71,7 @@ Tại sao nên chọn AntiGravity thay vì các AI wrapper thông thường?
 ## 🎯 3 Bước để Bắt đầu
 
 1.  **Mở Terminal**: Command Prompt hoặc Powershell.
-2.  **Chạy Lệnh Vạn Năng**: `npx antigravity-ide ten-du-an`
+2.  **Chạy Lệnh Vạn Năng**: `npx agent-skills-setup-for-antigravity ten-du-an`
 3.  **Trò chuyện với AI**: Bắt đầu làm việc với đội ngũ ảo của bạn.
 
 ---
@@ -92,7 +92,7 @@ du-an-cua-ban/
 
 > [!NOTE]
 > **Định Nghĩa Phạm Vi (Scope)**:
-> - **Global (Toàn cầu)**: Bộ công cụ CLI (`npx antigravity-ide`) dùng để cài đặt & quản lý.
+> - **Global (Toàn cầu)**: Bộ công cụ CLI (`npx agent-skills-setup-for-antigravity`) dùng để cài đặt & quản lý.
 > - **Workspace (Dự án)**: Toàn bộ Quy tắc (`.agent/rules`), Kỹ năng và Quy trình được cài đặt **Cục bộ** vào từng dự án riêng biệt. Đảm bảo trí tuệ của dự án này không bị rò rỉ sang dự án khác.
 
 ---
@@ -101,10 +101,10 @@ du-an-cua-ban/
 
 | Lệnh | Hành động | Logic Xử Lý |
 | :--- | :--- | :--- |
-| `npx antigravity-ide manager` | **Manager View** | Mở bảng điều khiển Swarm thời gian thực (Agent-First Mode). |
-| `npx antigravity-ide .` | **Sửa Chữa / Đồng Bộ** | Quét cả Global (`GEMINI.md`) & Workspace (`.agent`). Bù file thiếu. |
-| `npx antigravity-ide validate` | **Kiểm Tra Sức Khỏe** | Xác minh tính toàn vẹn của cả 2 phạm vi. |
-| `npx antigravity-ide update` | **Nâng Cấp** | Cập nhật Core DNA nhưng tôn trọng ranh giới Scope (không ghi đè ẩu). |
+| `npx agent-skills-setup-for-antigravity manager` | **Manager View** | Mở bảng điều khiển Swarm thời gian thực (Agent-First Mode). |
+| `npx agent-skills-setup-for-antigravity .` | **Sửa Chữa / Đồng Bộ** | Quét cả Global (`GEMINI.md`) & Workspace (`.agent`). Bù file thiếu. |
+| `npx agent-skills-setup-for-antigravity validate` | **Kiểm Tra Sức Khỏe** | Xác minh tính toàn vẹn của cả 2 phạm vi. |
+| `npx agent-skills-setup-for-antigravity update` | **Nâng Cấp** | Cập nhật Core DNA nhưng tôn trọng ranh giới Scope (không ghi đè ẩu). |
 
 ---
 
