@@ -259,7 +259,7 @@ const skills = [
 ## 📚 Resources
 
 - **All Skills**: See [SKILLS.md](./SKILLS.md)
-- **Skill Source**: [antigravity-awesome-skills](https://github.com/Dokhacgiakhoa/antigravity-ide)
+- **Skill Source**: [antigravity-awesome-skills](https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity)
 - **Gemini Docs**: [Google AI Studio](https://ai.google.dev/)
 - **Examples**: Check `/lab` directory
 

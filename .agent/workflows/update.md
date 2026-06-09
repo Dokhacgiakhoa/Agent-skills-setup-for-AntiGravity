@@ -4,7 +4,7 @@ description: Kiểm tra và cập nhật phiên bản Antigravity IDE
 
 # /update - Hệ thống Cập nhật Tự động
 
-Quy trình này hướng dẫn Agent cách kiểm tra và thực hiện cập nhật gói `antigravity-ide`.
+Quy trình này hướng dẫn Agent cách kiểm tra và thực hiện cập nhật gói `agent-skills-setup-for-antigravity`.
 
 ## 📋 Các bước thực hiện
 
@@ -14,7 +14,7 @@ Quy trình này hướng dẫn Agent cách kiểm tra và thực hiện cập nh
 
 2. **Truy vấn NPM Registry**:
    // turbo
-   - Chạy lệnh: `npm view antigravity-ide version`
+   - Chạy lệnh: `npm view agent-skills-setup-for-antigravity version`
    - Lấy kết quả đầu ra.
 
 3. **Phân tích so sánh**:
@@ -26,6 +26,6 @@ Quy trình này hướng dẫn Agent cách kiểm tra và thực hiện cập nh
    - Đợi người dùng phản hồi.
    - Nếu người dùng nói "Có/Ok/Ưm":
      // turbo
-     - Chạy lệnh: `npm install -g antigravity-ide@latest`
+     - Chạy lệnh: `npm install -g agent-skills-setup-for-antigravity@latest`
      - Thông báo thành công và nhắc người dùng chạy `antigravity-update` để đồng bộ skills (nếu cần).
    - Nếu người dùng nói "Không": Kết thúc quy trình.

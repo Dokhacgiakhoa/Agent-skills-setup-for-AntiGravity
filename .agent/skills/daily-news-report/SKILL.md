@@ -55,7 +55,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Run News Agent
-        run: npx antigravity-ide run-skill daily-news-report
+        run: npx agent-skills-setup-for-antigravity run-skill daily-news-report
         env:
             NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
             LLM_API_KEY: ${{ secrets.GEMINI_API_KEY }}
