@@ -1,6 +1,6 @@
 {
   "name": "agent-skills-setup-for-antigravity",
-  "version": "4.3.4",
+  "version": "4.3.5",
   "description": "The Ultimate AI-Powered IDE for 10x Engineers (Full Agentic Workflow)• 573 Master Skills • 2977 AI Patterns • 30 Workflows • 17 Shared Core Libraries. One Command to Rule Them All.",
   "homepage": "https://agent-skills-setup-for-antigravity.vercel.app",
   "main": "cli/index.js",

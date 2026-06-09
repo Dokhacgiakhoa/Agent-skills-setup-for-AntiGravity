@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🛰️ Agent skills setup for AntiGravity
-### *Phiên bản Nâng cao • v4.3.3 Meta-Engine*
+### *Phiên bản Nâng cao • v4.3.5 Meta-Engine*
 
 <!-- BADGES: Spaced & Tightly Wrapped to prevent Underlines -->
 <p align="center">
@@ -54,7 +54,7 @@ npx agent-skills-setup-for-antigravity [ten-du-an]
 
 ---
 
-## ✨ Điểm khác biệt (Phiên bản v4.3.3)
+## ✨ Điểm khác biệt (Phiên bản v4.3.5)
 
 Tại sao nên chọn AntiGravity thay vì các AI wrapper thông thường?
 

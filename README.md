@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🛰️ Agent skills setup for AntiGravity
-### *Advanced Edition • v4.3.3 Meta-Engine*
+### *Advanced Edition • v4.3.5 Meta-Engine*
 
 <!-- BADGES: Spaced & Tightly Wrapped to prevent Underlines -->
 <p align="center">
@@ -54,7 +54,7 @@ npx agent-skills-setup-for-antigravity [project-name]
 
 ---
 
-## ✨ The Premium Edge (v4.3.3)
+## ✨ The Premium Edge (v4.3.5)
 
 Why choose AntiGravity over standard AI wrappers?
 
