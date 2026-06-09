@@ -1,7 +1,7 @@
 # Strategic Implementation Plan: Agent-First Integration
 
 > [!IMPORTANT]
-> Mục tiêu: Nâng cấp linh hồn của Antigravity IDE v4.2.0 sang một hệ thống Agent-First hoàn chỉnh, bám sát mô hình Google Antigravity (Gemini 3). Trọng tâm là khả năng tự trị hoàn toàn qua Browser Subagent và giao diện quản lý đa agent (Manager View).
+> Mục tiêu: Nâng cấp linh hồn của Antigravity IDE v4.2.0 sang một hệ thống Agent-First hoàn chỉnh, bám sát mô hình AntiGravity (Gemini 3). Trọng tâm là khả năng tự trị hoàn toàn qua Browser Subagent và giao diện quản lý đa agent (Manager View).
 
 > [!WARNING]
 > Việc tích hợp Browser Subagent và refactor Orchestrator có thể gây xung đột với luồng làm việc cũ nếu không được cách ly context tốt. Cần giám sát chặt Watchdog rules.

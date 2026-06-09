@@ -1,6 +1,6 @@
 # 🏆 Antigravity Standard: Core Pro Agents
 
-This blueprint defines the standard "Gold Model" for the core agents in the Google Antigravity system. Any new project or existing update should reference these principles to maintain the highest quality of coordination and implementation.
+This blueprint defines the standard "Gold Model" for the core agents in the AntiGravity system. Any new project or existing update should reference these principles to maintain the highest quality of coordination and implementation.
 
 ---
 

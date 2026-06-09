@@ -4,8 +4,8 @@
 Lưu trữ danh sách các repo nguồn để tiện cho việc cập nhật hệ thống sau này.
 
 ### Core System
-- **Google Antigravity Lab**: `https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity-vercel` (Repo hiện tại)
-- **Google Antigravity Core**: `https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity` (Core CLI & Skills)
+- **AntiGravity Lab**: `https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity-vercel` (Repo hiện tại)
+- **AntiGravity Core**: `https://github.com/Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity` (Core CLI & Skills)
 
 ### 🚀 Agent Skills Standard (The Protocol)
 - **Repository**: [HoangNguyen0403/agent-skills-standard](https://github.com/HoangNguyen0403/agent-skills-standard)

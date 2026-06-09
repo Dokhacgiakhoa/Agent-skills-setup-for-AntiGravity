@@ -2,7 +2,7 @@
 
 > *"Giao diện không chỉ là vỏ bọc, nó là linh hồn của sản phẩm."*
 
-Tài liệu này không phải là hướng dẫn sử dụng công cụ. Đây là tập hợp những **Nguyên tắc Cốt lõi (Core Principles)** mà dự án Google Antigravity cam kết tuân thủ để đạt chuẩn "High-Craft" & "Premium".
+Tài liệu này không phải là hướng dẫn sử dụng công cụ. Đây là tập hợp những **Nguyên tắc Cốt lõi (Core Principles)** mà dự án AntiGravity cam kết tuân thủ để đạt chuẩn "High-Craft" & "Premium".
 
 ---
 

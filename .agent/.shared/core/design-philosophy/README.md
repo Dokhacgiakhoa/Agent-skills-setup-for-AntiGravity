@@ -14,7 +14,7 @@ references:
 > **Status**: Internalized Wisdom
 > **Type**: Shared Module (Philosophy & Assets)
 
-This module encapsulates the **Design Soul** of the Google Antigravity project. It is not just text; it contains actionable tools and assets to enforce "Premium" aesthetics.
+This module encapsulates the **Design Soul** of the AntiGravity project. It is not just text; it contains actionable tools and assets to enforce "Premium" aesthetics.
 
 ## 📂 Structure
 
