@@ -19,7 +19,7 @@ try {
     // Run create/repair in verification mode
     // We simulate a fresh install logic by importing logic/create or repair
     // Actually, let's run the CLI itself using node
-    console.log('🚀 Running antigravity-ide in test dir...');
+    console.log('🚀 Running agent-skills-setup-for-antigravity in test dir...');
     
     // We need to run it inside the test dir
     execSync(`node ${path.join(ROOT_DIR, 'cli', 'index.js')} . --force --skip-prompts`, { 

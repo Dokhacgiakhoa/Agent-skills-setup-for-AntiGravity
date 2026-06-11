@@ -5,8 +5,6 @@
   "homepage": "https://agent-skills-setup-for-antigravity.vercel.app",
   "main": "cli/index.js",
   "bin": {
-    "antigravity": "./cli/index.js",
-    "antigravity-ide": "./cli/index.js",
     "agent-skills-setup-for-antigravity": "./cli/index.js",
     "antigravity-setup": "./setup.js",
     "antigravity-update": "./update.js"
